@@ -7,6 +7,8 @@ public class LikithaTest {
 	public void test1() {
 		System.out.println("Hi Geetha....");
 		System.out.println("How are you?");
+		System.out.println("Have good day");
+		
 	}
 
 }
