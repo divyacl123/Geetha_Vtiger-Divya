@@ -6,6 +6,6 @@ public class CreatingNewShilpasTest {
 @Test
 public void newtest() {
 	System.out.println("--good morning to everyone--");
-	System.out.println("hello");
+	System.out.println("MISTAKE");
 }
 }
